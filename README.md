@@ -1,3 +1,3 @@
 # python_oop
 
-**Object-oriented programming** demonstration in **Python3**
+**Object-oriented programming** demonstration in **Python 3**
