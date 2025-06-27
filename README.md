@@ -4,6 +4,6 @@ A demonstration of core **Object-Oriented Programming (OOP)** concepts in **Pyth
 
 Includes examples of classes, methods, encapsulation, class/static methods, and inheritance.
 
-## Purpose
+### Purpose
 
 To learn the fundamental OOP principles in Python through hands-on practice.
