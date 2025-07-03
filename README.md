@@ -6,4 +6,4 @@ Includes examples of classes, methods, encapsulation, class/static methods, and 
 
 ### Purpose
 
-To learn the fundamental OOP principles in Python through hands-on practice.
+To explore fundamental OOP principles in Python through hands-on practice.
